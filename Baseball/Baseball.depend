@@ -22,3 +22,26 @@
 	<cstdlib>
 	<ctime>
 
+1775624375 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\prototipop12p2026\baseball\main.cpp
+	"../include/imprimirEquipos.h"
+	<cstdlib>
+	<ctime>
+
+1775624270 c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\prototipop12p2026\baseball\include\imprimirequipos.h
+
+1776269271 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\prototipop12p2026\baseball\src\estadisticas.cpp
+	"../include/Estadisticas.h"
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+
+1775661530 c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\prototipop12p2026\baseball\include\estadisticas.h
+
+1776269179 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\prototipop12p2026\baseball\src\imprimirequipos.cpp
+	"../include/imprimirEquipos.h"
+	"../include/Estadisticas.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
