@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1775662122 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\bibliotecas\baseball\src\estadisticas.cpp
+	"../include/Estadisticas.h"
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+
+1775661530 c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\bibliotecas\baseball\include\estadisticas.h
+
+1775624244 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\bibliotecas\baseball\src\imprimirequipos.cpp
+	"../include/imprimirEquipos.h"
+	"../include/Estadisticas.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1775624270 c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\bibliotecas\baseball\include\imprimirequipos.h
+
+1775624375 source:c:\users\intecapabner\documents\lab progra1\programacion 1\programacion_1_umg\bibliotecas\baseball\main.cpp
+	"../include/imprimirEquipos.h"
+	<cstdlib>
+	<ctime>
+
