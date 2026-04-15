@@ -12,7 +12,7 @@ void imprimirEquipos::llamaCiclo()
     float matriz_equipo_2[NUMERO_JUGADORES][NUMERO_ESTADISTICAS + 1];
     float matriz_equipo_3[NUMERO_JUGADORES][NUMERO_ESTADISTICAS + 1];
 
-    char jugadores[NUMERO_JUGADORES][MAXIMA_LONGITUD_CADENA] = {"Aaron", "Betts", "Judge", "Ohtani", "Soto"};
+    char jugadores[NUMERO_JUGADORES][MAXIMA_LONGITUD_CADENA] = {"Aaron", "Betts", "Judge", "Ohtani", "Soto"};// Nombres de los jugadores y poder calcular sus estadisticas
     char opcion;
     bool repetir = true;
 
