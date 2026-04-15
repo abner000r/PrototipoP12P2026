@@ -63,8 +63,8 @@ float Estadisticas::imprimirMatriz(float matriz[NUMERO_JUGADORES][NUMERO_ESTADIS
     imprimirMatrizLinea();
 
     float totalGeneral = 0;
-    float maxTotal = matriz[0][NUMERO_ESTADISTICAS];
-    float minTotal = matriz[0][NUMERO_ESTADISTICAS];
+    float maxTotal = matriz[0][NUMERO_ESTADISTICAS];// Calcula el numero mayor de las estadisticas
+    float minTotal = matriz[0][NUMERO_ESTADISTICAS]; // alcula el numero menor de las estadisticas
     char mejorJugador[MAXIMA_LONGITUD_CADENA];
     char peorJugador[MAXIMA_LONGITUD_CADENA];
 
